@@ -16,7 +16,7 @@ for dir_ in dirs:
             os.makedirs(path)
 
 
-# Move files to their correpsonding folders
+# Move files to their correpsonding folders.
 origin = 'raw-data/train'
 
 if copy_train:
