@@ -7,3 +7,4 @@ During the minor Applied Data Science given by Fontys Hogescholen ICT I created 
 ### 26-11-2020
 - Moved files to GIT repository
 - Added exploratory data analysis
+- Added CCN-V1
