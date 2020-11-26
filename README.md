@@ -8,3 +8,4 @@ During the minor Applied Data Science given by Fontys Hogescholen ICT I created 
 - Moved files to GIT repository
 - Added exploratory data analysis
 - Added CCN-V1
+- Added Preprocess.py; module used to reorganize the data in order to use ImageDataGenerator
