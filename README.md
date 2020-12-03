@@ -9,3 +9,8 @@ During the minor Applied Data Science given by Fontys Hogescholen ICT I created 
 - Added exploratory data analysis
 - Added CCN-V1
 - Added Preprocess.py; module used to reorganize the data in order to use ImageDataGenerator
+
+### 03-12-2020
+- Finished CNN-V1
+- Added models folder to store model configurations
+- Added CNN-V2
