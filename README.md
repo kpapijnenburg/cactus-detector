@@ -2,6 +2,14 @@
 ## Introduction
 During the minor Applied Data Science given by Fontys Hogescholen ICT I created an application for detection whether an image contains a cactus or not. In this repository the files for this application can be found.
 
+## Models
+For the challenge I will develop multiple models and compare the results of them. Below of list of the models can be found together with a short description.
+
+- CNN-V1; Base model Convolutional network to compare optimized models to.
+- CNN-V2; VGG Style model.
+
+The models weights and settings will be stored in the ```models``` folder. 
+
 ## Changelog
 
 ### 26-11-2020
