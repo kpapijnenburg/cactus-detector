@@ -25,3 +25,4 @@ The models weights and settings will be stored in the ```models``` folder.
 
 ### 10-12-2020
 - Added GradCAM module
+- Added GradCAM notebook
