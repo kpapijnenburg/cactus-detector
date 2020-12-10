@@ -12,7 +12,7 @@ The models weights and settings will be stored in the ```models``` folder.
 
 ## Feedback
 
-### Bartosz on 10-12-2020
+### #1 Bartosz on 10-12-2020
 you have the first complete pipeline, good.
 
 Many questions came to research the preprocessing, colour pallets (equalization). 
@@ -38,3 +38,4 @@ Apply cross validation or other techniques to check for overfitting.  use recall
 - Added GradCAM module
 - Added GradCAM notebook
 - Added feedback section to README
+- Added function to calculate average color distribution. (Based on feedback #1)
