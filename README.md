@@ -22,3 +22,6 @@ The models weights and settings will be stored in the ```models``` folder.
 - Finished CNN-V1
 - Added models folder to store model configurations
 - Added CNN-V2
+
+### 10-12-2020
+- Added GradCAM module
