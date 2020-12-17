@@ -16,7 +16,7 @@ The models weights and settings will be stored in the ```models``` folder.
 > you have the first complete pipeline, good. Many questions came to research the preprocessing, colour pallets (equalization). How did you choose the kernel for conv2d? is it matching with your problem? learn what the parameters mean and how to use them. Apply cross validation or other techniques to check for overfitting.  use recall and precision to validate go this direction to check if both classes can be well classified.
 
 - [x] Color pallette visualization
-- [ ]  Kernel size
+- [x]  Kernel size
 - [ ]  Cross validation & classification report - Base model
 - [ ]  Cross validation & classification report - VGG style model
 
@@ -38,3 +38,9 @@ The models weights and settings will be stored in the ```models``` folder.
 - Added GradCAM notebook
 - Added feedback section to README
 - Added function to calculate average color distribution. (Based on feedback #1)
+
+### 17-12-2020
+- Researched kernel size
+- Added CNN-V1.1 to check issues with data loading
+  - Remade into categorical model
+- Added classification reports
