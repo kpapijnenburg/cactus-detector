@@ -18,7 +18,7 @@ The models weights and settings will be stored in the ```models``` folder.
 - [x] Color pallette visualization
 - [x]  Kernel size
 - [x]  Cross validation & classification report - Base model
-- [ ]  Cross validation & classification report - VGG style model
+- [X]  Cross validation & classification report - VGG style model
 
 ## Changelog
 
@@ -46,3 +46,6 @@ The models weights and settings will be stored in the ```models``` folder.
   - Added dropout layers
   - Load data from 'raw' folder. (processing.py might incorrectly load the data )
 - Added classification reports
+
+### 07-01-2020
+- Added additional evaluation to VGG style model 
