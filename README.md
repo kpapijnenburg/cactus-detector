@@ -20,6 +20,13 @@ The models weights and settings will be stored in the ```models``` folder.
 - [x]  Cross validation & classification report - Base model
 - [X]  Cross validation & classification report - VGG style model
 
+### #2 Bartosz on 07-01-2021
+you worked on feedback very well. you researched the conv2d and can answer the param settings.both recall and precision were researched and based on that you made anther algorithm that solved these problems well.
+
+good work with clear steps that you take. Experiments are driven by your understanding of the problem and where you want to go with it. There still might be some overfitting to fix.
+
+- [ ] Data Augmentation Overfitting issue
+
 ## Changelog
 
 ### 26-11-2020
@@ -47,5 +54,5 @@ The models weights and settings will be stored in the ```models``` folder.
   - Load data from 'raw' folder. (processing.py might incorrectly load the data )
 - Added classification reports
 
-### 07-01-2020
+### 07-01-2021
 - Added additional evaluation to VGG style model 
