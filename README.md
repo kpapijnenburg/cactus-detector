@@ -25,7 +25,7 @@ you worked on feedback very well. you researched the conv2d and can answer the p
 
 good work with clear steps that you take. Experiments are driven by your understanding of the problem and where you want to go with it. There still might be some over fitting to fix.
 
-- [ ] Data Augmentation Over fitting issue
+- [X] Data Augmentation Over fitting issue
 
 ## Changelog
 
